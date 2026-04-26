@@ -5,6 +5,8 @@ ListInterfaceDemo.Java O/P Link : https://github.com/shruthi-nayak16/Advanced-Ja
 p1.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp1.png
 p2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp2.png
 p3.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp3.png
+p4.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp4.png
+
 
 
 
