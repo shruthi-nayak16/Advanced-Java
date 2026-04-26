@@ -7,6 +7,8 @@ p2.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Scr
 p3.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp3.png
 p4.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp4.png
 p5.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp5.png
+p6.java o/p link :https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp6.png
+
 
 
 
