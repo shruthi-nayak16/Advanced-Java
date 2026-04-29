@@ -20,7 +20,7 @@ PerformanceTest.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java
 TabbedColorPane.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/TabbedColorPane.java.png
 TabbedPaneExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/TabbedPaneExample.java.png
 StringBuildingFunction1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/StringBuildingFunctiion1.java.png
-StringBuildingFunction.java o/p link :
+StringBuildingFunction2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/StringBuildingFunctions2.java.png
 StringHandling.java o/p link :  
 StringHandlingDemo.java o/p link : 
 
