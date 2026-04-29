@@ -13,6 +13,9 @@ p8.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Sc
 p9.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp9.png
 p10.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/Screenp10.png
 
+CountryCapitalList.Jva o/p : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/CountryCapitalList.java.png
+
+
 
 
 
