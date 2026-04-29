@@ -17,7 +17,7 @@ CountryCapitalList.Jva o/p : https://github.com/shruthi-nayak16/Advanced-Java/bl
 JListExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/JListExample.java.png
 ListInterfaceDemo.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/ListInterfaceDemo.java.png
 PerformanceTest.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/PerformanceTest.java.png
-TabbedColorPane.java o/p link : 
+TabbedColorPane.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/TabbedColorPane.java.png
 TabbedPaneExample.java o/p link : 
 
 
