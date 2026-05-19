@@ -30,13 +30,22 @@ SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/bl
 6c1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c1output.png
 6c2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c2output.png
 6b1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6boutput1.png
-6b2.java o/p link :
-
-
-
-
-
-
+6b2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6boutput2%20(1).png
+7a1.java o/p link :
+7a2.java o/p link :
+7b1.java o/p link :
+7b2.java o/p link :
+7b3.java o/p link :
+8a1.java o/p link :
+8a2.java o/p link :
+8b1.java o/p link : 
+8b2.java o/p link :
+9a.java o/p link :
+9b1.java o/p link :
+9b2.java o/p link :
+9c1.java o/p link :
+9c2.java o/p link :
+9c3.java o/p link :
 
 
 
