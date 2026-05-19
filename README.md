@@ -28,7 +28,7 @@ ButtonExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/b
 SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/SwingExample.java.png
 
 6c1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c1output.png
-6c2.java o/p link : 
+6c2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c2output.png
 6b1.java o/p link : 
 6b2.java o/p link :
 
