@@ -80,7 +80,7 @@ SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/bl
 
 9b2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/9b2output.png
 
-9c1.java o/p link :
+9c1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/9c1output.png
 
 9c2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/9c2output.png
 
