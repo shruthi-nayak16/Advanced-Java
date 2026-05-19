@@ -29,7 +29,7 @@ SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/bl
 
 6c1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c1output.png
 6c2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6c2output.png
-6b1.java o/p link : 
+6b1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/6boutput1.png
 6b2.java o/p link :
 
 
