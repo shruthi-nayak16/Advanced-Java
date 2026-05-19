@@ -90,7 +90,7 @@ SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/bl
 
 10a2.java o/p link  : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/10a2output.png
 
-10b1.java o/p link  :
+10b1.java o/p link  : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/10b1output.png
 
 10b2.java o/p link  :
 
