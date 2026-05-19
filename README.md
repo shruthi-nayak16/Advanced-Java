@@ -37,7 +37,7 @@ SwingExample.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/bl
 7b2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/7b2output.png
 7b3.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/7b3output.png
 8a1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/8a1output.png
-8a2.java o/p link :
+8a2.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/8a2output.png
 8b1.java o/p link : https://github.com/shruthi-nayak16/Advanced-Java/blob/main/8b1output.png
 8b2.java o/p link :
 9a.java o/p link  :
